@@ -6,7 +6,7 @@ This repo contains only **"CSE"** coded (computer engineering) courses with **cl
 | Course  | Title                                      |
 |:-------:| ------------------------------------------ |
 | [CSE 211](./2021-2022%20Fall/CSE%20211%20-%20Data%20Structures/cse211_syllabus.pdf) | [Data Structures](./2021-2022%20Fall/CSE%20211%20-%20Data%20Structures) |
-| CSE 221 | [Principles of Logic Design](./2021-2022%20Fall/CSE%20221%20-%20Principles%20of%20Logic%20Design) |
+| [CSE 221](./2021-2022%20Fall/CSE%20221%20-%20Principles%20of%20Logic%20Design/cse221_syllabus.pdf) | [Principles of Logic Design](./2021-2022%20Fall/CSE%20221%20-%20Principles%20of%20Logic%20Design) |
 
 ### 2020-2021 / Spring
 | Course  | Title                                      |
