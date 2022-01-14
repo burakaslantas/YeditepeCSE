@@ -1,0 +1,12 @@
+a = int(input("Please write an integer: "))
+b = int(input("Please write an other integer: "))
+
+print("a=", a)
+print("b=", b)
+print("a+b=", a+b)
+print("a-b=", a-b)
+print("a*b=", a*b)
+print("a/b=", a/b)
+print("a%b=", a%b)
+print("a**b=", a**b)
+print("a//b=", a//b)

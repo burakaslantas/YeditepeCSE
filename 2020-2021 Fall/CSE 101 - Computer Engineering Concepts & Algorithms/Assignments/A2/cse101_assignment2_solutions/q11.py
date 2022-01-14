@@ -1,0 +1,10 @@
+a = int(input("Enter a binary number. a= "), base=2)
+b = int(input("Enter a binary number. b= "), base=2)
+
+print("a&b is", bin(a&b))
+print("a|b is", bin(a|b))
+print("a^b is", bin(a^b))
+print("~a is", bin(~a))
+print("~b is", bin(~b))
+print("a<<b is", bin(a<<b))
+print("a>>b is", bin(a>>b))
