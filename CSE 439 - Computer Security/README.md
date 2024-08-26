@@ -11,7 +11,7 @@
 This project aims to develop a client-server application that enables secure communication among multiple clients connected to a server. The project extends a previously implemented system by introducing group communication, where all clients in a group can exchange messages and files securely. The communication is encrypted using a single key encryption algorithm to ensure confidentiality. The system supports text messaging and file sharing, with a maximum file size limit of 50 MB. The project also includes modes to ensure both confidentiality and integrity of the communication.
 
 ## Project Demo
-https://github.com/user-attachments/assets/914676e7-5874-433f-b5ed-a8276cc9128f
+https://github.com/user-attachments/assets/bd3675cc-5ef0-4621-9a4f-ccb0b96058cd
 
 ## Features
 - **Client-Server Architecture**: Establishes a connection-oriented communication model between clients and a central server.
