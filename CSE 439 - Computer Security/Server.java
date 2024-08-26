@@ -20,7 +20,7 @@ public class Server {
     public static void main(String[] args) throws Exception {
         System.out.println("Server: Private key loaded.");
         ExecutorService executor = Executors.newFixedThreadPool(10);
-        privateKey = loadPrivateKey("/Users/burakaslantas/Library/CloudStorage/GoogleDrive-buraklionstone@gmail.com/My Drive/School Documents/Senior/Spring 2024/CSE 439/Project/burak_aslantas_cse439_project/private_key.pem");
+        privateKey = loadPrivateKey("./private_key.pem");
 
         try (ServerSocket serverSocket = new ServerSocket(port)) {
             System.out.println("Server is listening on port " + port);
