@@ -102,7 +102,7 @@ public class Client extends Frame {
             out = new PrintWriter(socket.getOutputStream(), true);
             in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
 
-            PublicKey publicKey = loadPublicKey("/Users/burakaslantas/Library/CloudStorage/GoogleDrive-buraklionstone@gmail.com/My Drive/School Documents/Senior/Spring 2024/CSE 439/Project/burak_aslantas_cse439_project/public_key.pem");
+            PublicKey publicKey = loadPublicKey("./public_key.pem");
             textArea.append("Public key loaded.\n");
 
             KeyGenerator keyGen = KeyGenerator.getInstance("AES");
